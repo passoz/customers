@@ -1,15 +1,11 @@
-5252
-47/home/fernando/dev/est/src/images/icone-100.jpg1656018292000000000 0
-50/home/fernando/dev/est/src/images/vertical-100.jpg1656018292000000000 0
-43/home/fernando/dev/est/src/images/icone.png1656018106000000000 0
-48/home/fernando/dev/est/src/images/horizontal.png1656018106000000000 0
+5241
 36/home/fernando/dev/est/src/style.css1657236918237349427 0
 33/home/fernando/dev/est/.postcssrc1657236918230682776 0
 33/home/fernando/dev/est/.gitignore1657236918210682822 0
-47/home/fernando/dev/est/dist/est.59712999.js.map1657240965364557552 0
-46/home/fernando/dev/est/dist/index.2cdaf7bc.css1657242230877117012 0
-50/home/fernando/dev/est/dist/index.2cdaf7bc.css.map1657242230890450490 0
-43/home/fernando/dev/est/dist/est.59712999.js1657240965351224350 0
+47/home/fernando/dev/est/dist/est.59712999.js.map1657236918230682776 0
+46/home/fernando/dev/est/dist/index.2cdaf7bc.css1657236918230682776 0
+50/home/fernando/dev/est/dist/index.2cdaf7bc.css.map1657236918230682776 0
+43/home/fernando/dev/est/dist/est.59712999.js1657236918230682776 0
 59/home/fernando/dev/est/node_modules/node-gyp-build/index.js1657237080996548378 0
 57/home/fernando/dev/est/node_modules/node-gyp-build/bin.js1657237080896548950 0
 60/home/fernando/dev/est/node_modules/node-gyp-build/README.md1657237081169880739 0
@@ -226,7 +222,7 @@
 50/home/fernando/dev/est/node_modules/type-fest/ts411657237081693211140 1
 55/home/fernando/dev/est/node_modules/yaml/parse-cst.d.ts1657237085106525978 0
 79/home/fernando/dev/est/node_modules/@parcel/compressor-raw/lib/RawCompressor.js1657237090003167800 0
-38/home/fernando/dev/est/dist/index.html1657242230903783967 0
+38/home/fernando/dev/est/dist/index.html1657236918230682776 0
 74/home/fernando/dev/est/node_modules/source-map/lib/source-map-generator.js1657237080923215464 0
 112/home/fernando/dev/est/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/package.json1657237089259838136 0
 61/home/fernando/dev/est/node_modules/@types/parse-json/LICENSE1657237083693200173 0
@@ -823,7 +819,7 @@
 56/home/fernando/dev/est/node_modules/yaml/browser/pair.js1657237079753222180 0
 78/home/fernando/dev/est/node_modules/@parcel/core/test/fixtures/parcel/index.js1657237091043162732 0
 59/home/fernando/dev/est/node_modules/json5/dist/index.min.js1657237081993209458 0
-26/home/fernando/dev/est/src1657240717263771262 1
+26/home/fernando/dev/est/src1657236918237349427 1
 77/home/fernando/dev/est/node_modules/caniuse-lite/data/features/font-smooth.js1657237089243171551 0
 114/home/fernando/dev/est/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1657237091943158398 1
 44/home/fernando/dev/est/node_modules/boolbase1657237083529867722 1
@@ -1923,7 +1919,6 @@
 70/home/fernando/dev/est/node_modules/@nodelib/fs.stat/out/settings.d.ts1657237091089829174 0
 55/home/fernando/dev/est/node_modules/anymatch/index.d.ts1657237083686533542 0
 73/home/fernando/dev/est/node_modules/caniuse-lite/data/features/ac3-ec3.js1657237083569867506 0
-46/home/fernando/dev/est/src/images/vertical.png1656018106000000000 0
 81/home/fernando/dev/est/node_modules/abortcontroller-polyfill/dist/umd-polyfill.js1657237084873193876 0
 61/home/fernando/dev/est/node_modules/run-parallel/package.json1657237079376557710 0
 70/home/fernando/dev/est/node_modules/type-fest/source/package-json.d.ts1657237081013214951 0
@@ -2054,7 +2049,6 @@
 73/home/fernando/dev/est/node_modules/caniuse-lite/data/features/pointer.js1657237089773168935 0
 59/home/fernando/dev/est/node_modules/posthtml-parser/license1657237079863221538 0
 67/home/fernando/dev/est/node_modules/@nodelib/fs.stat/out/index.d.ts1657237091086495857 0
-46/home/fernando/dev/est/dist/icone.95176789.png1657240965251225334 0
 79/home/fernando/dev/est/node_modules/csso/lib/restructure/4-restructShorthand.js1657237084186530857 0
 50/home/fernando/dev/est/node_modules/parcel/LICENSE1657237080476551350 0
 74/home/fernando/dev/est/node_modules/@parcel/transformer-html/src/inline.js1657237085863188690 0
@@ -2188,7 +2182,6 @@
 70/home/fernando/dev/est/node_modules/@parcel/core/src/serializerCore.js1657237091589826766 0
 71/home/fernando/dev/est/node_modules/fast-glob/out/providers/stream.d.ts1657237086326519627 0
 66/home/fernando/dev/est/node_modules/resolve/test/faulty_basedir.js1657237082029875922 0
-33/home/fernando/dev/est/src/images1657240882598715700 1
 62/home/fernando/dev/est/node_modules/postcss/lib/stringify.d.ts1657237084443196160 0
 69/home/fernando/dev/est/node_modules/css-tree/lib/syntax/node/index.js1657237087926511460 0
 71/home/fernando/dev/est/node_modules/@swc/helpers/lib/_inherits_loose.js1657237086069854281 0
@@ -2474,7 +2467,6 @@
 91/home/fernando/dev/est/node_modules/@parcel/optimizer-image/parcel-image.linux-x64-gnu.node1657237097589798780 0
 60/home/fernando/dev/est/node_modules/safe-buffer/package.json1657237079386557652 0
 87/home/fernando/dev/est/node_modules/caniuse-lite/data/features/css-media-interaction.js1657237088483175337 0
-45/home/fernando/dev/est/src/images/EST-100.jpg1656018638000000000 0
 88/home/fernando/dev/est/node_modules/@parcel/optimizer-image/parcel-image.darwin-x64.node1657237091706492871 0
 57/home/fernando/dev/est/node_modules/minimist/test/bool.js1657237081146547537 0
 85/home/fernando/dev/est/node_modules/@parcel/transformer-image/src/ImageTransformer.js1657237084813194195 0
@@ -3093,7 +3085,6 @@
 72/home/fernando/dev/est/node_modules/acorn-node/lib/class-fields/index.js1657237084186530857 0
 71/home/fernando/dev/est/node_modules/acorn-node/lib/import-meta/index.js1657237084806527563 0
 85/home/fernando/dev/est/node_modules/@swc/helpers/lib/_define_enumerable_properties.js1657237085893188533 0
-52/home/fernando/dev/est/src/images/horizontal-100.jpg1656018292000000000 0
 66/home/fernando/dev/est/node_modules/acorn-node/lib/bigint/index.js1657237083916532300 0
 74/home/fernando/dev/est/node_modules/acorn-node/lib/export-ns-from/index.js1657237084589862048 0
 73/home/fernando/dev/est/node_modules/acorn-node/lib/private-class-elements1657237085119859242 1
@@ -4137,7 +4128,7 @@
 52/home/fernando/dev/est/node_modules/.bin/tailwindcss1657237148761540760 0
 51/home/fernando/dev/est/node_modules/braces/index.js1657237083579867452 0
 47/home/fernando/dev/est/node_modules/.bin/semver1657237148761540760 0
-37/home/fernando/dev/est/src/index.html1657242236833847587 0
+37/home/fernando/dev/est/src/index.html1657239209155419944 0
 52/home/fernando/dev/est/node_modules/.bin/detect-libc1657237148761540760 0
 101/home/fernando/dev/est/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.musl.node1657237092053157870 0
 67/home/fernando/dev/est/node_modules/caniuse-lite/data/regions/MS.js1657237089659836161 0
@@ -4578,7 +4569,6 @@
 84/home/fernando/dev/est/node_modules/caniuse-lite/data/features/css-widows-orphans.js1657237088876506703 0
 65/home/fernando/dev/est/node_modules/@parcel/transformer-babel/src1657237086493185436 1
 83/home/fernando/dev/est/node_modules/caniuse-lite/data/features/channel-messaging.js1657237087186515214 0
-50/home/fernando/dev/est/dist/icone-100.098e8e9b.jpg1657240844262438816 0
 89/home/fernando/dev/est/node_modules/@parcel/transformer-js/parcel-swc.win32-x64-msvc.node1657237148694879195 0
 73/home/fernando/dev/est/node_modules/caniuse-lite/data/features/colr-v1.js1657237087379847567 0
 81/home/fernando/dev/est/node_modules/caniuse-lite/data/features/media-attribute.js1657237089636502943 0
@@ -4881,7 +4871,7 @@
 115/home/fernando/dev/est/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias-glob/package.json1657237089443170564 0
 46/home/fernando/dev/est/node_modules/read-cache1657237079723222355 1
 71/home/fernando/dev/est/node_modules/tailwindcss/lib/util/pluginUtils.js1657237089249838185 0
-27/home/fernando/dev/est/dist1657242230907117336 1
+27/home/fernando/dev/est/dist1657236918230682776 1
 63/home/fernando/dev/est/node_modules/tailwindcss/lib/util/tap.js1657237089379837543 0
 66/home/fernando/dev/est/node_modules/tailwindcss/defaultConfig.d.ts1657237089443170564 0
 63/home/fernando/dev/est/node_modules/entities/lib/index.d.ts.map1657237085383191199 0
@@ -4994,7 +4984,6 @@
 67/home/fernando/dev/est/node_modules/caniuse-lite/data/regions/HN.js1657237089393170811 0
 51/home/fernando/dev/est/node_modules/xtend/.jshintrc1657237079033226379 0
 87/home/fernando/dev/est/node_modules/@swc/helpers/lib/_class_extract_field_descriptor.js1657237084986526607 0
-41/home/fernando/dev/est/src/images/EST.png1656018596000000000 0
 50/home/fernando/dev/est/node_modules/css-select/lib1657237085769855844 1
 53/home/fernando/dev/est/node_modules/@parcel/core/test1657237091833158927 1
 63/home/fernando/dev/est/node_modules/css-select/lib/procedure.js1657237084179864226 0
